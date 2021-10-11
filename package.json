@@ -1,0 +1,25 @@
+{
+  "name": "zadania-rekrutacyjne-kotrak",
+  "version": "1.0.0",
+  "description": "zadania rekrutacyjne kotrak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orwellus/CypressTest.git"
+  },
+  "author": "Orwellus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orwellus/CypressTest/issues"
+  },
+  "homepage": "https://github.com/Orwellus/CypressTest#readme",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  },
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
